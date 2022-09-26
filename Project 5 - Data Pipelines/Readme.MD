@@ -12,9 +12,9 @@ In this project, we would have to create our own custom operators to perform tas
 
 <b>Project Datasets</b>
 
-<b>Song Data Path</b> --> s3://udacity-dataend/song_data 
+<b>Song Data Path</b> --> s3://udacity-dend/song_data 
 
-<b>Log Data Path</b> --> s3://udacity-dataend/log_data Log Data 
+<b>Log Data Path</b> --> s3://udacity-dend/log_data Log Data 
 
 <b>Project Template</b>
 
