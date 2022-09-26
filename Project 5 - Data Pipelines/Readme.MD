@@ -57,6 +57,11 @@ For example one test could be a SQL statement that checks if certain column cont
 
 <b>Final Instructions</b>
 
+Install the Airflow by 
+```sh
+  pip install apache-airflow
+```
+
 When you are in the workspace, after completing the code, you can start by using the command : /opt/airflow/start.sh
 
 Once you done, it would automatically start all the dags required and outputting the result to its respective tables
