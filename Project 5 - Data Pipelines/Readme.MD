@@ -10,7 +10,7 @@ Apply the knowledge of Apache Airflow to build and ETL pipeline for a Data Lake 
 
 In this project, we would have to create our own custom operators to perform tasks such as staging the data, filling the data warehouse and running checks on the data as the final step. We have been provided with four empty operators that need to be implemented into functional pieces of a data pipeline. 
 
-<b>Project Setup - to run locally<b>
+<b>Project Setup - to run locally</b>
 
 Install Airflow, create variable AIRFLOW_HOME and AIRFLOW_CONFIG with the appropiate paths, and place dags and plugins on airflow_home directory.
 Initialize Airflow data base with 
