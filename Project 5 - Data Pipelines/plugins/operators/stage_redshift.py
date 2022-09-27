@@ -16,6 +16,7 @@ class StageToRedshiftOperator(BaseOperator):
         {}
     """    
 
+
     @apply_defaults
     def __init__(self,
                  redshift_conn_id="",
